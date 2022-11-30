@@ -1,0 +1,6 @@
+{
+  "todos": "#[] karate.read('classpath:resources/todos_schema.json')",
+  "total": "#number",
+  "skip": "#number",
+  "limit": "#number"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "#number ? _ > 0",
+  "todo": "#string",
+  "completed": "#boolean",
+  "userId": "#number ? _ > 0"
+}
